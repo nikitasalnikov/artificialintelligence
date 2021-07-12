@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'CSB';
+    src: url(../fonts/CircularStd-Book.otf);
+}
+
+@font-face {
+    font-family: 'CSM';
+    src: url(../fonts/CircularStd-Medium.otf);
+}
+
+@font-face {
+    font-family: 'OSB';
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'OSEB';
+    src: url(../fonts/OpenSans-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'OSSB';
+    src: url(../fonts/OpenSans-SemiBold.ttf);
+}
